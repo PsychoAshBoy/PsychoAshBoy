@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @PsychoAshBoy
-- 👀 I’m interested in coding. 
+- 👋 Hi, I’m PsychoAshBoy from 🇮🇳
+- 👀 I’m interested in coding.
+- Eleven years old boy 🧒
 - 🌱 I’m fluent in C++ but learning c and c#.
 - 📫 How to reach me-First die then come to hell. 
 
